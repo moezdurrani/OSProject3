@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/moezdurrani/Documents/Courses/Fall 2024/CS 3113 Intro to Operating Systems/project3/main'
+relocations:     []
+...
